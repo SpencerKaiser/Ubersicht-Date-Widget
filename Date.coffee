@@ -1,6 +1,6 @@
 command: "date +%A,%B,%e,%Y"
 
-refreshFrequency: 1000
+refreshFrequency: 50000
 
 style: """
   size = 800px
